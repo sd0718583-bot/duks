@@ -46,4 +46,10 @@ result_label.pack(pady=10)
 
 # Бағдарлама жабылғанша жұмыс істейді
 window.mainloop() 
-попо
+
+ырма (бірнеше рет басуға болады)
+tk.Button(window, text="Есептеу", command=esepteu).pack(pady=10)
+ырма (бірнеше рет басуға болады)
+tk.Button(window, text="Есептеу", command=esepteu).pack(pady=10)
+ырма (бірнеше рет басуға болады)
+tk.Button(window, text="Есептеу", command=esepteu).pack(pady=10)

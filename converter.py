@@ -45,7 +45,4 @@ result_label = tk.Label(window, text="Нәтиже:", font=("Arial", 12))
 result_label.pack(pady=10)
 
 # Бағдарлама жабылғанша жұмыс істейді
-window.mainloop()
-
-result_label = tk.Label(window, text="Нәтиже:", font=("Arial", 12))
-result_label.pack(pady=10)
+window.mainloop() 

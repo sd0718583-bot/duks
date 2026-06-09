@@ -46,3 +46,4 @@ result_label.pack(pady=10)
 
 # Бағдарлама жабылғанша жұмыс істейді
 window.mainloop() 
+попо
